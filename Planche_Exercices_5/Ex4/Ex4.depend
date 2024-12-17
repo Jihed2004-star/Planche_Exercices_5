@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733168043 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex4\main.cpp
+	<iostream>
+	"complexe.h"
+
+1733168229 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex4\src\complexe.cpp
+	"complexe.h"
+	<iostream>
+	<math.h>
+
+1733167278 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex4\include\complexe.h
+

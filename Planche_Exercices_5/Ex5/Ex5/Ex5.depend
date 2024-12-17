@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1734456341 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex5\ex5\main.cpp
+	"Cercle.h"
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1734456341 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex5\ex5\include\cercle.h
+	"Point.h"
+
+1734456341 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex5\ex5\include\point.h
+	<iostream>
+
+1734456341 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex5\ex5\src\cercle.cpp
+	"Cercle.h"
+	<iostream>
+	<cmath>
+
+1734456349 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex5\ex5\src\point.cpp
+	<iostream>
+

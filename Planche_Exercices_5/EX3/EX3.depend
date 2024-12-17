@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733094236 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\main.cpp
+	"Point.h"
+	<iostream>
+
+1733094209 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\src\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1733094209 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex3\include\point.h
+

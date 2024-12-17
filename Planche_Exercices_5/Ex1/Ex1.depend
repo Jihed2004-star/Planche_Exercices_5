@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733086955 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex1\main.cpp
+	"Etudiant.h"
+
+1733087149 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex1\include\etudiant.h
+	<string>
+	<iostream>
+
+1733087111 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_5\ex1\src\etudiant.cpp
+	"Etudiant.h"
+
